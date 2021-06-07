@@ -10,7 +10,7 @@ API read file excel(xlsx) with python.
   - sockets==1.0.0
   - urllib3==1.26.3
   - waitress==1.4.4
-  - xlrd==2.0.1
+  - xlrd==1.2.0
 
 ## Install requirements
   - pip3 install -r requirements.txt
